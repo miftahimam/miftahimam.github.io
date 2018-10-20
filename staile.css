@@ -1,9 +1,4 @@
-/* iframe {
-          margin-top: 10px;
-          margin-bottom: 20px;
-          margin-left: 380px;
-          margin-right: auto;
-        } */
+
             body {
                 margin: 0;
                background-color: ghostwhite;
@@ -13,15 +8,7 @@
             color:red;
             
         }
-        /* .search {
-            border: 10px;
-        }
-        #kotaksearch {
-         
-           font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-           
         
-        } */
         #tempat {
             color:rgb(255, 255, 255);
             font-weight: bolder;  
@@ -30,12 +17,11 @@
             color: white;
             padding-right: 120px;
             width:100px;
-            /* font-weight: bolder; */
+            
         }
         #navbarDropdown {
             color:white;
-            /* font-weight: bolder;
-             */
+            
              
             
         }
@@ -61,24 +47,6 @@
             font-family: 'Times New Roman';
         }
         
-    
-        /* footer{
-            font-family: "Raleway", serif;
-            height: 300px;
-            margin-top: 10%;
-            margin-bottom: 0;
-            padding-left: 0;
-        } */
-        /* main{
-            font-family: "Roboto", serif;
-            margin: 0 auto;
-            padding: 40px;
-            text-align: center;
-            width: 1200px;
-            height: 1000px;
-            overflow: scroll;
-            margin-top:10px;
-        } */
         main.container.h3{
             font-family: Roboto;
             font-weight:bold;
@@ -100,9 +68,6 @@
           margin: 20px 0 30px 0;
         }
 
-        /* .jumbotron{
-            background-color: Rgba(255,255,255,0.8);
-        } */
 
         #pic2{
               background-color: red;      
@@ -184,7 +149,7 @@
             width: 230%;
             box-shadow: 10px 10px 260px 10px red;
 
-            /* overflow: scroll; */
+           
         }
         #porsche {
             margin-left:8px;
@@ -197,11 +162,7 @@
             background-color: red;
         }
         
-        /* #navbarSupportedContent:hover {
-            background-color: black;
-            display: -ms-grid;
-            
-        } */
+        
         select {
             
             color:black;
@@ -270,55 +231,6 @@
             border: 3px solid black;
             
          }
-
-            
-            
-            
-        
-        
-        /* #jalan {
-            position: fixed; */
-        
-
-
-        /* .kontak {
-          padding-left: 0.1px;
-        } */
-
-        /* .loc {
-          background-color: red;
-          margin: 30px 520px 0 520px;
-          margin-top: 20px;
-          color: white;
-          text-align: center;
-        } */
-            /* #gameboard {
-                position: relative;
-                text-align: center;
-                top: 30px;
-                padding-top: 10%;
-                padding-bottom: 50%;
-            }
-            #gameboard:hover {
-                background-color: white;
-            } */
-          
-          /* .card {
-            
-            border: 2px solid #9DD1F1;
-            display: inline-block;
-            height: 200px;
-            margin-top: 4px;
-            padding: 30px auto;
-            text-align: center;
-            width: 100%;
-            
-          } */
-          
-          /* .card:hover {
-            background-color: #004E89;
-            border-color: #004E89;
-          } */
            footer {
             position: relative;
             background-color:black;
@@ -345,10 +257,7 @@
               padding-right: 10px;
           }
         
-          /* .f-left {
-              margin: auto 0;
-
-          } */
+          
           footer span {
             display: inline-block;
             padding-bottom: 10px;
@@ -372,10 +281,7 @@
           
           }
           
-          /* .card img {
-            padding-top: 40px;
-            
-          } */
+        
           
           
         
