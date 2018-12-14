@@ -81,6 +81,7 @@ tr, h1, td {
     padding-left: 70%;
     color: white;
     font-size: 20px;
+    
         
 }
   #navshit  {
@@ -190,7 +191,7 @@ footer {
   padding: 1px 5px;
   margin-right: 5px;
   width: 100%;
-  height: 500px;
+  height: 300px;
   
 }
 .flex-container {
